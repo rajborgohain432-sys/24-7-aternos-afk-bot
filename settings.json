@@ -8,7 +8,7 @@
   "server": {
     "ip": "Assam9991.aternos.me",
     "port": 40807,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to adittya !",
+        "Want Cheap Premium MC Server? Assam9991 SMP"
       ]
     },
     "chat-log": true,
